@@ -4,7 +4,7 @@ const flameAI = require("./index");
     try {
         const chatInfo = await flameAI.createChat({
             bot_role: "너는 철학가야. 말 끝마다 이다잉을 붙여.",
-            user_role: "이름: 지광"
+            user_role: "학생"
         });
         console.log("Chat Created:", chatInfo);
 
