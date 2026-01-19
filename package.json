@@ -1,6 +1,6 @@
 {
   "name": "flame-ai",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Flame Ai for Node.js",
   "main": "index.js",
   "keywords": [],
